@@ -7,14 +7,14 @@ I created several themes for handhelds living in their natural environments. On 
 ![Image of NGP Theme Sample](https://raw.githubusercontent.com/mahuti/Neo-Geo-Pocket/master/ngp.png)
 
 ### Requires: 
-- Snap: video snaps from emumovies
-- Wheel: wheel logos from hyperspin
+- Pos module https://github.com/mahuti/Pos-Module
+- shadow-glo module (included) by Zpaolo11x
+
+### uses: 
+- snap: video snaps 
+- boxart: 2d boxart 
+- wheel: wheel logos 
 
 ### Features: 
-- Themes are 4:3 ratio
+- Theme is scalable to any size 
 - Does not use a spinning wheel (but does use wheel logos)
-
-
-#### To-Do
-- [ ] Modify Theme to work in other than 4:3 Mode
-
