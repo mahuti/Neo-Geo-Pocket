@@ -167,7 +167,7 @@ if ( config["show_logos"] == "Yes" )
 // NeoGeo Pocket Overlay
 local ngp_overlay = fe.add_image("ngp_foreground.png", scalepos.x(528), scalepos.y(230), scalepos.width(1357), scalepos.height(867))
 ngp_overlay.preserve_aspect_ratio = true
-ngp_overlay.x=scalepos.x(-100,"right",ngp_overlay)
+ngp_overlay.x=scalepos.x(180,"middle",ngp_overlay)
         
 // Missing Cartridge Underlay
 local ngp_underlay = fe.add_image("nogame.png", scalepos.x(958), scalepos.y(290), scalepos.width(615), scalepos.height(510))
